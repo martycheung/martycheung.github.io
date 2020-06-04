@@ -14,7 +14,7 @@ Tech: Keras, Tensorflow, OpenCV, Python, C++
 
 ### [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
 
-NRL DataJam is a hackathon held every year where teams are tasked with creating and presenting a Rugby League analytics solution to the NRL. In 2019, our team's solution was a tool which helps inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution, which included a tableau dashboard tool intended for coaches.  
+NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a Tableau dashboard which helps inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 
 Tech: R, Tableau
 
@@ -24,7 +24,7 @@ Tech: R, Tableau
 
 ### [Real Estate Valuation Web Scraping and Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
-This is a personal project where I am building a dataset and tool to help inform my property investment decisions in the future. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
+I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
 Tech: Python, Selenium, Beautiful Soup
 
@@ -32,7 +32,7 @@ Tech: Python, Selenium, Beautiful Soup
 
 ### [IEEE-CIS Fraudulent Transactions (Kaggle)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
 
-This is a Kaggle competition where I am building predictive models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts. For the competition, I performed Exploratory Data Analysis, Feature Engineering, Feature Selection (feature importance and RFE) and building models using gradient boosted trees (Xgboost, LightGBM), and even briefly tried neural networks.
+Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 
 Tech: Python, Xgboost/LightGBM
 
@@ -40,7 +40,7 @@ Tech: Python, Xgboost/LightGBM
 
 ### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
-Quora Insincere Questions was a popular Kaggle competition, involving detecting which questions posed on Quora were insincere. In this challenge, I started off using a simple model baseline using bag of words features, and then improved upon my results using Deep Learning models.
+Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models.
 
 Tech: Python, NLP
 
@@ -48,7 +48,7 @@ Tech: Python, NLP
 
 ### [HuffPost News Category Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
-This was a dataset that someone put up on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. Each example was linked to a news category (eg. politics, sport, business, entertainment, world news etc.), and so the challenge was to classify each text into one news category. I used this project to experiment with traditional text pre-processing methods, EDA and simple NLP models.
+A public dataset on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. The challenge was to classify each text into a news category, eg. politics, sport, business, entertainment, world news etc.
 
 Tech: Python, NLP
 
