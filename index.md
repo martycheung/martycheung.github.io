@@ -2,18 +2,19 @@
 
 ---
 
-### Category Name 1 
+### End to End
 
-[Real-time Facial Emotion Recognition](/sample_page)
-<img src="images/demo_app.gif?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Real-time Facial Emotion Recognition](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
+<img src="images/app_demo.gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
+<img src="images/rugby_league.jpg?raw=true"/>
+<img src="images/datajam_tableau.jpg?raw=true"/>
+
+---
+[Real Estate Valuation Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+<img src="images/realestate.jpg?raw=true"/>
 
 ---
 
