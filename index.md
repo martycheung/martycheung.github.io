@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Real-time Facial Emotion Recognition](/sample_page)
-<img src="images/emotion_detection.png?raw=true"/>
+[Real-time Facial Emotion Recognition](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
+<img src="images/app_demo.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
