@@ -4,7 +4,7 @@
 
 ### [Real-time Facial Emotion Recognition](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
 
-A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprise angry etc.). A simple convolutional network model was built using Keras/Tensorflow (Python) and then deployed using OpenCV in C++.
+A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprise angry etc.). A convolutional network model was built using Keras/Tensorflow (Python) and then deployed using OpenCV in C++.
 
 Tech: Keras, Tensorflow, OpenCV, Python, C++
 
@@ -34,7 +34,7 @@ Tech: Python, Selenium, Beautiful Soup
 
 This is a Kaggle competition where I am building predictive models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts. For the competition, I performed Exploratory Data Analysis, Feature Engineering, Feature Selection (feature importance and RFE) and building models using gradient boosted trees (Xgboost, LightGBM), and even briefly tried neural networks.
 
-Tech: Python
+Tech: Python, Xgboost/LightGBM
 
 ---
 
