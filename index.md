@@ -28,8 +28,6 @@ This is a personal project where I am building a dataset and tool to help inform
 
 Tech: Python, Selenium, Beautiful Soup
 
-<img src="images/realestate.jpg?raw=true"/>
-
 ---
 
 ### [IEEE-CIS Fraudulent Transactions (Kaggle)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
@@ -37,8 +35,6 @@ Tech: Python, Selenium, Beautiful Soup
 This is a Kaggle competition where I am building predictive models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts. For the competition, I performed Exploratory Data Analysis, Feature Engineering, Feature Selection (feature importance and RFE) and building models using gradient boosted trees (Xgboost, LightGBM), and even briefly tried neural networks.
 
 Tech: Python
-
-<img src="images/realestate.jpg?raw=true"/>
 
 ---
 
@@ -48,8 +44,6 @@ Quora Insincere Questions was a popular Kaggle competition, involving detecting 
 
 Tech: Python, NLP
 
-<img src="images/realestate.jpg?raw=true"/>
-
 ---
 
 ### [HuffPost News Category Text Classification](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
@@ -57,7 +51,5 @@ Tech: Python, NLP
 This was a dataset that someone put up on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. Each example was linked to a news category (eg. politics, sport, business, entertainment, world news etc.), and so the challenge was to classify each text into one news category. I used this project to experiment with traditional text pre-processing methods, EDA and simple NLP models.
 
 Tech: Python, NLP
-
-<img src="images/realestate.jpg?raw=true"/>
 
 ---
