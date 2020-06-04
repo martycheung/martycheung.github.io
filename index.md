@@ -8,19 +8,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 - Tech: Keras, Tensorflow, OpenCV, Python, C++
 
-<script>
-    $('<img />',{ src: 'images/app_demo.gif'});
-    $(function() {
-        $("#app_demo").hover(
-            function() {
-                $(this).attr("src", "images/app_demo.gif");
-            },
-            function() {
-                $(this).attr("src", "images/app_demo_static.jpg");
-            }                         
-        );                  
-    });
-</script>
+<img src="images/images/app_demo.gif?raw=true"/>
 
 ---
 
