@@ -6,7 +6,7 @@
 
 A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprise angry etc.). A convolutional network model was built using Keras/Tensorflow (Python) and then deployed using OpenCV in C++.
 
-Tech: Keras, Tensorflow, OpenCV, Python, C++
+- Tech: Keras, Tensorflow, OpenCV, Python, C++
 
 <img src="images/app_demo.gif?raw=true"/>
 
@@ -16,7 +16,7 @@ Tech: Keras, Tensorflow, OpenCV, Python, C++
 
 NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a Tableau dashboard which helps inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 
-Tech: R, Tableau
+- Tech: R, Tableau
 
 <img src="images/datajam_tableau.png?raw=true"/>
 
@@ -34,7 +34,7 @@ Tech: Python, Selenium, Beautiful Soup
 
 Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 
-Tech: Python, Xgboost/LightGBM
+- Tech: Python, Xgboost/LightGBM
 
 ---
 
@@ -42,7 +42,7 @@ Tech: Python, Xgboost/LightGBM
 
 Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models.
 
-Tech: Python, NLP
+- Tech: Python, NLP
 
 ---
 
@@ -50,6 +50,6 @@ Tech: Python, NLP
 
 A public dataset on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. The challenge was to classify each text into a news category, eg. politics, sport, business, entertainment, world news etc.
 
-Tech: Python, NLP
+- Tech: Python, NLP
 
 ---
