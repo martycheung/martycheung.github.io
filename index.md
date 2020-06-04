@@ -22,7 +22,7 @@ Tech: R, Tableau
 
 ---
 
-### [Real Estate Valuation Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+### [Real Estate Valuation Web Scraping and Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
 This is a personal project where I am building a dataset and tool to help inform my property investment decisions in the future. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
