@@ -46,7 +46,7 @@ Tech: Python, NLP
 
 ---
 
-### [HuffPost News Category Text Classification](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
+### [HuffPost News Category Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
 This was a dataset that someone put up on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. Each example was linked to a news category (eg. politics, sport, business, entertainment, world news etc.), and so the challenge was to classify each text into one news category. I used this project to experiment with traditional text pre-processing methods, EDA and simple NLP models.
 
