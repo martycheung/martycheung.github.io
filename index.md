@@ -10,7 +10,7 @@
 ---
 [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
 <img src="images/rugby_league.jpg?raw=true"/>
-<img src="images/datajam_tableau.jpg?raw=true"/>
+<img src="images/datajam_tableau.png?raw=true"/>
 
 ---
 [Real Estate Valuation Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
