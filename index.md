@@ -26,7 +26,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a T
 
 I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
-Tech: Python, Selenium, Beautiful Soup
+- Tech: Python, Selenium, Beautiful Soup
 
 ---
 
