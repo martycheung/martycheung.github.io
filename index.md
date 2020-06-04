@@ -23,7 +23,7 @@ NRL DataJam is a hackathon held every year where teams are tasked with creating 
 
 ### Real Estate Valuation Model
 
-This is a personal project where I am building a dataset and tool to help inform my property investment decisions in the future. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to recommend property value, given preporty size, location, bedrooms, etc.  
+This is a personal project where I am building a dataset and tool to help inform my property investment decisions in the future. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to predict property value, given property size, location, bedrooms, etc.  
 [Go to Repo](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 <img src="images/realestate.jpg?raw=true"/>
 
