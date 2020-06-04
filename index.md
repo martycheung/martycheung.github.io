@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Real-time Facial Emotion Recognition](/sample_page)
-![alt text](images/demo.app.gif "Logo Title Text 1")
+![alt text](images/demo_app.gif "Logo Title Text 1")
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
