@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Real-time Facial Emotion Recognition](/sample_page)
-<img src="images/app_demo.gif?raw=true"/>
+<img src="images/app_demo.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
