@@ -6,7 +6,7 @@
 
 [Real-time Facial Emotion Recognition](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
 <img src="images/app_demo.gif?raw=true"/>
-<img src="images/cnn_arch.jpg?raw=true"/>
+<img src="images/cnn_arch.png?raw=true"/>
 
 ---
 [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
