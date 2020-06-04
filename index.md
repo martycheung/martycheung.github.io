@@ -1,4 +1,4 @@
-## Data Scientist Portfolio
+## Portfolio
 
 ---
 
