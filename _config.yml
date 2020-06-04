@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Martin Cheung
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist who has extensive experience in working with very large datasets and building predictive machine learning models for a variety of challenging data science projects in different industries. Some notable focus areas include predictive asset maintenance, network fault detection, customer segmentation, marketing ROI modelling and customer complaints remediation. Experience collaborating with clients and stakeholder teams to deliver actionable insights and value. Strong technical skills in statistics and machine learning, and has strong programming experience in languages such as Python, R, C++, SQL. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/martin-cheung-ds/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-168653700-1 # your Google Analytics tracking ID here
