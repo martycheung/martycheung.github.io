@@ -22,14 +22,6 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a T
 
 ---
 
-### [Real Estate Valuation Web Scraping and Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
-
-I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
-
-- Tech: Python, Selenium, Beautiful Soup
-
----
-
 ### [IEEE-CIS Fraudulent Transactions (Kaggle)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
 
 Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
@@ -43,6 +35,14 @@ Kaggle competition to build models to detect fraudulent card transactions. Featu
 Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models.
 
 - Tech: Python, NLP
+
+---
+
+### [Real Estate Valuation Web Scraping and Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+
+I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
+
+- Tech: Python, Selenium, Beautiful Soup
 
 ---
 
