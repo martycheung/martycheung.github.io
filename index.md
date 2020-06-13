@@ -42,7 +42,7 @@ Kaggle competition which involved using NLP methods to detect which questions po
 
 ---
 
-### [Real Estate Valuation Web Scraping and Model](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+### [Real Estate Valuation Dataset Creation by Web Scraping](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
 I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
