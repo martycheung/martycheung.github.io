@@ -51,11 +51,3 @@ I am scraping a dataset and building a tool to help inform my personal property 
 **Tech:** Python, Selenium, Beautiful Soup
 
 ---
-
-### [HuffPost News Category Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
-
-A public dataset on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. The challenge was to classify each text into a news category, eg. politics, sport, business, entertainment, world news etc.
-
-**Tech:** Python, NLP
-
----
