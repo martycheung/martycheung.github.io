@@ -8,7 +8,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 <center><img src="images/app_demo.jpg?raw=true"/></center>
 
-- Tech: Keras, Tensorflow, OpenCV, Python, C++
+**Tech:** Keras, Tensorflow, OpenCV, Python, C++
 
 ---
 
@@ -18,7 +18,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 <center><img src="images/datajam_tableau.png?raw=true"/></center>
 
-- Tech: R, RandomForest, Tableau
+**Tech:** R, RandomForest, Tableau
 
 ---
 
@@ -26,7 +26,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 
-- Tech: Python, Xgboost/LightGBM
+**Tech:** Python, Xgboost/LightGBM
 
 ---
 
@@ -34,7 +34,7 @@ Kaggle competition to build models to detect fraudulent card transactions. Featu
 
 Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models.
 
-- Tech: Python, NLP
+**Tech:** Python, NLP
 
 ---
 
@@ -42,7 +42,7 @@ Kaggle competition which involved using NLP methods to detect which questions po
 
 I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
-- Tech: Python, Selenium, Beautiful Soup
+**Tech:** Python, Selenium, Beautiful Soup
 
 ---
 
@@ -50,6 +50,6 @@ I am scraping a dataset and building a tool to help inform my personal property 
 
 A public dataset on Kaggle (not a competition), which consisted of headlines and short descriptions of articles which were scraped from HuffPost. The challenge was to classify each text into a news category, eg. politics, sport, business, entertainment, world news etc.
 
-- Tech: Python, NLP
+**Tech:** Python, NLP
 
 ---
