@@ -34,7 +34,7 @@ Kaggle competition to build models to detect fraudulent card transactions. Featu
 
 ### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
-Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models.
+Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
 
 <center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
 
