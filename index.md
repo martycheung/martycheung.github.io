@@ -26,6 +26,8 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 
+<center><img src="images/fraud.jpg?raw=true"/></center>
+
 **Tech:** Python, Xgboost/LightGBM
 
 ---
