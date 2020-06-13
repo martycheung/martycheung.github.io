@@ -42,7 +42,7 @@ Kaggle competition which involved using NLP methods to detect which questions po
 
 I am scraping a dataset and building a tool to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
 
-<center><img src="images/realestate.jpg?raw=true"/></center>
+<center><img src="images/realestate1.jpg?raw=true"/></center>
 
 **Tech:** Python, Selenium, Beautiful Soup
 
