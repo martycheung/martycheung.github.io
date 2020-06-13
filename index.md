@@ -14,11 +14,11 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 ### [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
 
-NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a Tableau dashboard which helps inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
+NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 
 - Tech: R, Tableau
 
-<img src="images/datajam_tableau.png?raw=true"/>
+<center><img src="images/datajam_tableau.png?raw=true"/></center>
 
 ---
 
