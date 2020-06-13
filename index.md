@@ -12,13 +12,13 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 ---
 
-### [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
+### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
-NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
+Using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
 
-<center><img src="images/datajam_tableau.png?raw=true"/></center>
+<center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
 
-**Tech:** R, RandomForest, Tableau
+**Tech:** Python, NLP
 
 ---
 
@@ -32,13 +32,13 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 
 ---
 
-### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
+### [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
 
-Using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
+NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 
-<center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
+<center><img src="images/datajam_tableau.png?raw=true"/></center>
 
-**Tech:** Python, NLP
+**Tech:** R, RandomForest, Tableau
 
 ---
 
