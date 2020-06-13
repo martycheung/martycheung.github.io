@@ -24,7 +24,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 ### [IEEE-CIS Fraudulent Transactions (Kaggle)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
 
-Kaggle competition to build models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
+Building models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 
 <center><img src="images/fraud.jpg?raw=true"/></center>
 
@@ -34,7 +34,7 @@ Kaggle competition to build models to detect fraudulent card transactions. Featu
 
 ### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
-Kaggle competition which involved using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
+Using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
 
 <center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
 
