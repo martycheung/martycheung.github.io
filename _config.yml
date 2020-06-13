@@ -1,11 +1,18 @@
-title: Martin Cheung Data Scientist
-logo: "/images/profile_pic.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: <p align="center">Martin Cheung Data Scientist</p>
+logo: "/images/profile_pic.jpeg?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/martin-cheung-ds"/>LinkedIn</a> |
+  <a href="https://github.com/martycheung">GitHub</a>
+  </p>
+  
+  <p align="justify">
   Data Scientist, currently at relayr, building predictive maintenance and anomaly detection systems for industrial clients.
   <br><br>
   Previously worked at Accenture for 4 years, with experience in delivering varied data science projects in many industries such as Telco, Banking and Oil & Gas.
   <br><br>
-  <a href="https://www.linkedin.com/in/martin-cheung-ds/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-168653700-1 # your Google Analytics tracking ID here
