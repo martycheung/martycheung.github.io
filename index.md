@@ -8,7 +8,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 - Tech: Keras, Tensorflow, OpenCV, Python, C++
 
-<center><img src="images/app_demo.jpg?raw=true"/></center>
+<center><img src="images/app_demo.jpg?raw=true"/><img src="images/cnn_arch.png?raw=true"/></center>
 
 ---
 
