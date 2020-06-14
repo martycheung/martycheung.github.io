@@ -20,7 +20,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 ---
 
 ### Quora Insincere Questions Text Classification (Kaggle)
-<a href="https://github.com/martycheung/Quora-Insincere-Questions-Kaggle">
+<a href="https://github.com/martycheung/Quora-Insincere-Questions-Kaggle" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
@@ -37,17 +37,17 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 ---
 
 ### Visualising Bayesian Networks using R Shiny and VisNetwork
-<a href="https://github.com/martycheung/Bayesian-Network-Visualisation">
+<a href="https://github.com/martycheung/Bayesian-Network-Visualisation" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
-<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation">
+<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation" target="_blank">
   <img src="https://img.shields.io/badge/Shiny-Open_Shiny_App-blue?logo=Rstudio" class="image_left"/>
 </a>
 
 <br>
 
 <div style="text-align: justify">
-In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. We built a model based on Bayesian Networks to quantify the impact and ROI of various marketing activities on a number of performance variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. This shiny app was one of the preliminary versions of the network visualisation, which we later embedded into a web application that was the main deliverable for the project. Check it out the demo <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">here</a>.
+In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. We built a model based on Bayesian Networks to quantify the impact and ROI of various marketing activities on a number of performance variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. This shiny app was one of the preliminary versions of the network visualisation, which we later embedded into a web application that was the main deliverable for the project. Check it out the demo <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/" target="_blank">here</a>.
 </div>
 
 <img src="images/network_viz.png?raw=true" class="image_centred"/>
@@ -57,7 +57,7 @@ In 2016, I worked on a project with a large Australian Telco company where my te
 ---
 
 ### IEEE-CIS Fraudulent Transactions (Kaggle)
-<a href="https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle">
+<a href="https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
@@ -74,7 +74,7 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 ---
 
 ### NRL DataJam 2019
-<a href="https://github.com/martycheung/NRL-DataJam-2019">
+<a href="https://github.com/martycheung/NRL-DataJam-2019" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
@@ -91,7 +91,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 ---
 
 ### Real Estate Valuation Dataset Creation by Web Scraping
-<a href="https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model">
+<a href="https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
