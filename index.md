@@ -9,7 +9,7 @@
 A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprised, angry, etc.). A convolutional network model was built in Python using Keras/Tensorflow and then deployed using OpenCV in C++.
 </div>
 
-<img align="left" src="images/app_demo.jpg?raw=true"/>
+<img src="images/app_demo.jpg?raw=true"/>
 
 **Tech:** Keras, Tensorflow, OpenCV, Python, C++
 
@@ -22,7 +22,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 Using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
 </div>
 
-<center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
+<img src="images/wordcloud_quora.jpg?raw=true"/>
 
 **Tech:** Python, NLP, Keras, Tensorflow
 
@@ -36,7 +36,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. We built a model based on Bayesian Networks to quantify the impact and ROI of various marketing activities on a number of performance variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. This shiny app was one of the preliminary versions of the network visualisation, which we later embedded into a web application that was the main deliverable for the project. Check it out the demo <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">here</a>.
 </div>
 
-<center><img src="images/network_viz.png?raw=true"/></center>
+<img src="images/network_viz.png?raw=true"/>
 
 **Tech:** R, R Shiny, Bayesian Networks
 
@@ -49,7 +49,7 @@ In 2016, I worked on a project with a large Australian Telco company where my te
 Building models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
 </div>
 
-<center><img src="images/fraud.jpg?raw=true"/></center>
+<img src="images/fraud.jpg?raw=true"/>
 
 **Tech:** Python, Xgboost/LightGBM
 
@@ -62,7 +62,7 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 </div>
 
-<center><img src="images/datajam_tableau.png?raw=true"/></center>
+<img src="images/datajam_tableau.png?raw=true"/>
 
 **Tech:** R, RandomForest, Tableau
 
@@ -75,7 +75,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 (Work in progress) I built my own real estate dataset to help inform my personal property investment decisions and to upskill in web scraping. The project involves web scraping data from realestate.com.au and other property sites, and then in the future, analysing this data and building a model to estimate property value, given property size, location, bedrooms, etc.  
 </div>
 
-<center><img src="images/realestate1.jpg?raw=true"/></center>
+<img src="images/realestate1.jpg?raw=true"/>
 
 **Tech:** Python, Selenium, Beautiful Soup
 
