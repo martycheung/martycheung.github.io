@@ -47,7 +47,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 <br>
 
 <div style="text-align: justify">
-In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. The solution involved using Bayesian Networks to quantify the ROI of various marketing activities for a number of target variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. Note: Client details have been scrubbed and spend data has been replaced with random values. Have a look at the demo <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/" target="_blank">here</a>.
+In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. The solution involved using Bayesian Networks to quantify the ROI of various marketing activities for a number of target variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. Note: Client details have been scrubbed and spend data has been replaced with random values.
 </div>
 
 <img src="images/network_viz.png?raw=true" class="image_centred"/>
