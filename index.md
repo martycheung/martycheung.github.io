@@ -3,7 +3,7 @@
 ---
 
 ### Real-time Facial Emotion Recognition
-<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">
+<a href="https://github.com/martycheung/Facial-Emotion-Recognition">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
@@ -20,7 +20,11 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 ---
 
 ### Quora Insincere Questions Text Classification (Kaggle)
-[![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
+<a href="https://github.com/martycheung/Quora-Insincere-Questions-Kaggle">
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
+
+<br>
 
 <div style="text-align: justify">
 Using NLP methods to detect which questions posed on Quora were insincere. I started off using a simple model baseline using bag of words and TFIDF features, and then improved upon my results using Deep Learning models (LSTM, Attention).
@@ -33,8 +37,14 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 ---
 
 ### Visualising Bayesian Networks using R Shiny and VisNetwork
-[![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Bayesian-Network-Visualisation)
-[![](https://img.shields.io/badge/Shiny-Open_Shiny_App-blue?logo=Rstudio)](https://martycheung.shinyapps.io/bayesian-network-visualisation)
+<a href="https://github.com/martycheung/Bayesian-Network-Visualisation">
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
+<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation">
+  <img src="https://img.shields.io/badge/Shiny-Open_Shiny_App-blue?logo=Rstudio" class="image_left"/>
+</a>
+
+<br>
 
 <div style="text-align: justify">
 In 2016, I worked on a project with a large Australian Telco company where my team revamped the way the company does Marketing Analytics. We built a model based on Bayesian Networks to quantify the impact and ROI of various marketing activities on a number of performance variables. I built a network visualisation using RShiny to present the results of the model to non-technical stakeholders. This shiny app was one of the preliminary versions of the network visualisation, which we later embedded into a web application that was the main deliverable for the project. Check it out the demo <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">here</a>.
@@ -47,7 +57,11 @@ In 2016, I worked on a project with a large Australian Telco company where my te
 ---
 
 ### IEEE-CIS Fraudulent Transactions (Kaggle)
-[![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
+<a href="https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle">
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
+
+<br>
 
 <div style="text-align: justify">
 Building models to detect fraudulent card transactions. Features in the dataset include the transaction time and amount, product code, card type, geography, email domain, device and a number of pre-built features by the competition hosts.
@@ -60,7 +74,11 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 ---
 
 ### NRL DataJam 2019
-[![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/NRL-DataJam-2019)
+<a href="https://github.com/martycheung/NRL-DataJam-2019">
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
+
+<br>
 
 <div style="text-align: justify">
 NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
@@ -73,7 +91,11 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 ---
 
 ### Real Estate Valuation Dataset Creation by Web Scraping
-[![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+<a href="https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model">
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
+
+<br>
 
 <div style="text-align: justify">
 (Work in progress) I built my own real estate dataset to help inform my personal property investment decisions and to upskill in web scraping. The project involves web scraping data from realestate.com.au and other property sites, and then in the future, analysing this data and building a model to estimate property value, given property size, location, bedrooms, etc.  
