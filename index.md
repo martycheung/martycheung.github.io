@@ -3,7 +3,7 @@
 ---
 
 ### Real-time Facial Emotion Recognition
-<a href="https://github.com/martycheung/Facial-Emotion-Recognition" target="_blank">
+<a href="https://github.com/martycheung/CppND-Facial-Emotion-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
