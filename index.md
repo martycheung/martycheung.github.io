@@ -2,7 +2,7 @@
 
 ---
 
-### [Real-time Facial Emotion Recognition](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
+### Real-time Facial Emotion Recognition
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
 
 <div style="text-align: justify">
@@ -15,7 +15,7 @@ A real-time facial emotion recognition app which uses your laptop's camera feed 
 
 ---
 
-### [Quora Insincere Questions Text Classification (Kaggle)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
+### Quora Insincere Questions Text Classification (Kaggle)
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Quora-Insincere-Questions-Kaggle)
 
 <div style="text-align: justify">
@@ -28,7 +28,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 
 ---
 
-### [Visualising Bayesian Networks using RShiny and VisNetwork](https://github.com/martycheung/Bayesian-Network-Visualisation) | [*Shiny app demo*](https://martycheung.shinyapps.io/bayesian-network-visualisation/)
+### Visualising Bayesian Networks using R Shiny and VisNetwork
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Bayesian-Network-Visualisation)
 [![](https://img.shields.io/badge/Shiny-Open_Shiny_App-blue?logo=Rstudio)](https://github.com/martycheung/Bayesian-Network-Visualisation)
 
@@ -42,7 +42,7 @@ In 2016, I worked on a project with a large Australian Telco company where my te
 
 ---
 
-### [IEEE-CIS Fraudulent Transactions (Kaggle)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
+### IEEE-CIS Fraudulent Transactions (Kaggle)
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/IEEE-CIS-Fraudulent-Transactions-Kaggle)
 
 <div style="text-align: justify">
@@ -55,7 +55,7 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 
 ---
 
-### [NRL DataJam 2019](https://github.com/martycheung/NRL-DataJam-2019)
+### NRL DataJam 2019
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/NRL-DataJam-2019)
 
 <div style="text-align: justify">
@@ -68,7 +68,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 ---
 
-### [Real Estate Valuation Dataset Creation by Web Scraping](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
+### Real Estate Valuation Dataset Creation by Web Scraping
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
 <div style="text-align: justify">
