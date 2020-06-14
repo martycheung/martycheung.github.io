@@ -3,15 +3,13 @@
 ---
 
 ### Real-time Facial Emotion Recognition
-<div>
 [![](https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github)](https://github.com/martycheung/CppND-Facial-Emotion-Recognition)
-</div>
 
 <div style="text-align: justify">
 A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprised, angry, etc.). A convolutional network model was built in Python using Keras/Tensorflow and then deployed using OpenCV in C++.
 </div>
 
-<center><img src="images/app_demo.jpg?raw=true"/></center>
+<img align="left" src="images/app_demo.jpg?raw=true"/>
 
 **Tech:** Keras, Tensorflow, OpenCV, Python, C++
 
