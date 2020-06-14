@@ -50,4 +50,3 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 **Tech:** Python, Selenium, Beautiful Soup
 
----
