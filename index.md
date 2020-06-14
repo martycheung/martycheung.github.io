@@ -50,6 +50,12 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 
 ---
 
+### [Visualising Bayesian Networks using RShiny and VisNetwork](https://github.com/martycheung/Bayesian-Network-Visualisation)
+
+<center><img src="images/network_viz.png?raw=true"/></center>
+
+---
+
 ### [Real Estate Valuation Dataset Creation by Web Scraping](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
 <div style="text-align: justify">
