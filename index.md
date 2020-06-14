@@ -3,13 +3,15 @@
 ---
 
 ### Real-time Facial Emotion Recognition
-<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/"><img align="left" src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github"/></a>
+<a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">
+  <img align="left" src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+</a>
 
 <div style="text-align: justify">
 A real-time facial emotion recognition app which uses your laptop's camera feed to detect faces and then classifies the facial expression (eg. happy, sad, surprised, angry, etc.). A convolutional network model was built in Python using Keras/Tensorflow and then deployed using OpenCV in C++.
 </div>
 
-<img src="images/app_demo.jpg?raw=true"/>
+<img src="images/app_demo.jpg?raw=true" class="image_centred"/>
 
 **Tech:** Keras, Tensorflow, OpenCV, Python, C++
 
