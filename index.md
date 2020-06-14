@@ -22,7 +22,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 
 <center><img src="images/wordcloud_quora.jpg?raw=true"/></center>
 
-**Tech:** Python, NLP
+**Tech:** Python, NLP, Keras, Tensorflow
 
 ---
 
@@ -65,7 +65,7 @@ NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a m
 ### [Real Estate Valuation Dataset Creation by Web Scraping](https://github.com/martycheung/Real-Estate-Dataset-and-Valuation-Model)
 
 <div style="text-align: justify">
-(Work in progress) I have built a real estate dataset to help inform my personal property investment decisions. The project involves web scraping data from realestate.com.au and other property sites, and then building a model to estimate property value, given property size, location, bedrooms, etc.  
+(Work in progress) I have built my own real estate dataset to help inform my personal property investment decisions and to upskill in web scraping. The project involves web scraping data from realestate.com.au and other property sites, and then in the future, analysing this data and building a model to estimate property value, given property size, location, bedrooms, etc.  
 </div>
 
 <center><img src="images/realestate1.jpg?raw=true"/></center>
