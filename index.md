@@ -4,7 +4,7 @@
 
 ### Real-time Facial Emotion Recognition
 <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation/">
-  <img align="left" src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
+  <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
 <div style="text-align: justify">
