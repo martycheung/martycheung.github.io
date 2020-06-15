@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://colab.research.google.com/github/martycheung/CppND-Facial-Emotion-Recognition/blob/master/model/Facial_Emotion_Recognition_Model_CNN.ipynb" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-See_Modelling_Code-blue?logo=jupyter" class="image_left"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-See_Modelling_Code-orange?logo=jupyter" class="image_left"/>
 </a>
 
 <br>
