@@ -41,7 +41,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 <a href="https://martycheung.shinyapps.io/bayesian-network-visualisation" target="_blank">
-  <img src="https://img.shields.io/badge/Shiny-Open_Shiny_App-blue?logo=Rstudio" class="image_left"/>
+  <img src="https://img.shields.io/badge/Shiny-Open_Shiny_App-blueviolet?logo=Rstudio" class="image_left"/>
 </a>
 
 <br>
@@ -79,7 +79,7 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 </a>
 
 <a href="https://martycheung.github.io/slides/NRL_DataJam.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/PDF-See_Presentation-blue?logo=adobe-acrobat-reader" class="image_left"/>
+  <img src="https://img.shields.io/badge/PDF-See_Presentation-red?logo=adobe-acrobat-reader" class="image_left"/>
 </a>
 
 <br>
