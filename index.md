@@ -36,7 +36,7 @@ Using NLP methods to detect which questions posed on Quora were insincere. I sta
 
 ---
 
-### Visualising Bayesian Networks using R Shiny and VisNetwork
+### Visualising Bayesian Networks using Shiny and VisNetwork in R
 <a href="https://github.com/martycheung/Bayesian-Network-Visualisation" target="_blank">
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
