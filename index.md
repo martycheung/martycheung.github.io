@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
-<a href="https://colab.research.google.com/github/martycheung/CppND-Facial-Emotion-Recognition/blob/master/model/Facial_Emotion_Recognition_Model_CNN.ipynb" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-See_Modelling_Notebook-orange?logo=jupyter" class="image_left"/>
-</a>
-
 <br>
 
 <div style="text-align: justify">
