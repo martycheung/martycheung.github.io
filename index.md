@@ -85,7 +85,7 @@ Building models to detect fraudulent card transactions. Features in the dataset 
 <br>
 
 <div style="text-align: justify">
-NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
+NRL DataJam is a Rugby League themed data hackathon which I entered as part of an Accenture team. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
 </div>
 
 <img src="images/datajam_tableau.png?raw=true" class="image_centred"/>
