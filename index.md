@@ -78,11 +78,11 @@ Building models to detect fraudulent card transactions. Features in the dataset 
   <img src="https://img.shields.io/badge/Github-View_On_Github-blue?logo=Github" class="image_left"/>
 </a>
 
-<br>
-
 <a href="https://martycheung.github.io/slides/NRL_DataJam.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/PDF-See_Presentation-blue?logo=adobeacrobatreader" class="image_left"/>
+  <img src="https://img.shields.io/badge/PDF-See_Presentation-blue?logo=adobe-acrobat-reader" class="image_left"/>
 </a>
+
+<br>
 
 <div style="text-align: justify">
 NRL DataJam is a Rugby League themed data hackathon. Our team's solution was a machine learning model and Tableau dashboard which would help inform coaches whether to opt for the penalty goal (2pts) or to attack for the try (up to 6pts). Our team was awarded 3rd place for our solution.
